@@ -1,5 +1,0 @@
-pvutil/.version
-*~
-*.pyc
-/dist
-*.egg-info
